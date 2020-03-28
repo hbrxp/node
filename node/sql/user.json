@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5e539499efa25943a61bb7bd"},"username":"张三","age":"18","id":1.0}
+{"_id":{"$oid":"5e5394d7efa25943a61bb7be"},"username":"李四","age":"19","id":2.0}
+{"_id":{"$oid":"5e5394feefa25943a61bb7bf"},"username":"马武","age":"20","id":3.0}
+{"_id":{"$oid":"5e539cf3686a1d7550afc9ab"},"username":"王六","age":"21","id":4.0}
+{"_id":{"$oid":"5e56650fb6818f3aaa1dbfd9"},"username":"王六","age":"21","id":4.0,"password":123456.0}
+{"_id":{"$oid":"5e56653bb6818f3aaa1dbfda"},"username":"马武","age":"20","id":3.0,"password":12345.0}
+{"_id":{"$oid":"5e566569b6818f3aaa1dbfdb"},"username":"张三","age":"18","id":1.0,"password":123.0}
+{"_id":{"$oid":"5e56681bc9a5c82698e1e9dc"},"username":"赵七","password":"$2a$10$NjSqNlC9X0FpDAluY1rDfuLjQYH.MaVRZ4acgYL/bG/CE3FZhye2e","nikename":"系统生成昵称","fans":0,"follow":0,"time":1.582721050857E+12,"icon":"/upload/default.jpg"}
+{"_id":{"$oid":"5e6793364a8dcd8ff8e37a55"},"username":"wwww","password":"$2a$10$aVBS6EZkl2ttCw/bfZ9oruektiqiMAGkYJ4UooleqDhjypbfQMUce","nikename":"系统生成昵称","fans":0,"follow":0,"time":1.583846198488E+12,"icon":"/upload/default.jpg"}
